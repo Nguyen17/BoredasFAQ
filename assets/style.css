@@ -1,0 +1,26 @@
+
+.wrapper{
+    margin: 0 auto;
+    background-color: #fff;
+    background-image: url("/assets/bg1.jpg");
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.hero button {
+    margin-top: 20px;
+}
+img{
+    height: 70vh;
+}
+
+footer{
+    display: flex;
+        justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
